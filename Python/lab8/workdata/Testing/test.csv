@@ -1,0 +1,4 @@
+userId;jobTitle;firstName;lastName;employeeCode;region;phoneNumber;emailAddress
+alice;Software Engineer;Alice;Smith;E4;NY;3333333;alice.smith@learningcontainer.com
+grace;Business Analyst;Grace;Anderson;E10;GA;9999999;grace.anderson@learningcontainer.com
+carol;Project Manager;Carol;Davis;E6;WA;5555555;carol.davis@learningcontainer.com
